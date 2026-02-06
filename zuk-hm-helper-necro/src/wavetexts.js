@@ -11,11 +11,11 @@ export const wave_text = {
 "2": `
 Start North-East
 
-(NE Ranger) :deathspark:+:soulsap: → :surge: (West and TC NW Ranger)+:deathskulls: →
+(NE Ranger) :deathspark:+:soulsap: → :surge: (West 1 and TC NW Ranger)+:deathskulls: →
 
-:dive: (East and TC NE Meleer)+:deathspark: → :soulsap: →
+:dive: (East 2 and TC NE Meleer)+:deathspark: → :soulsap: →
 
-(Move South) :fingerofdeath: → (West Meleer) :deathspark: → (Yt-MejKot) :deathskulls: → finish with basics → :invokedeath: → :commandskeleton:
+(Move South 3) :fingerofdeath: → (West Meleer) :deathspark: → (Yt-MejKot) :deathskulls: → finish with basics → :invokedeath: → :commandskeleton:
 
 (Go South East for Wave 3)
 `,
@@ -24,18 +24,18 @@ Start South-East
 
 (SE Yt-MejKot) :bloat: → :fingerofdeath: → (Bat) :soulsap: → :touchofdeath: →
 
-(Move West) :invokedeath: → :threadsoffate: → :soulsap: → :volleyofsouls: →
+(Move West 1) :invokedeath: → :threadsoffate: → :soulsap: → :volleyofsouls: →
 
-:surge: (East)+:eofspec: (East Ranger) → :lifetransfer: → :invokedeath: → :commandskeleton:
+:surge: (East 2)+:eofspec: (East Ranger) → :lifetransfer: → :invokedeath: → :commandskeleton:
 
 (Go South East for Wave 4 Igneous Mej)
 `,
 "4": `
-⬥ Igneous Mej  (:commandskeleton: → :invokedeath:) → :vulnbomb:+:bloat: → :vulnbomb: → :soulsap: → :touchofdeath: → :surge: towards Igneous Xil+:invokedeath:
+⬥ Igneous Mej  (:commandskeleton: → :invokedeath:) → :vulnbomb:+:bloat: → :vulnbomb: → :soulsap: → :touchofdeath: → :surge: (towards Igneous Xil 1)+:invokedeath:
 
 ⬥ Igneous Xil  :vulnbomb:+:bloat: → :soulsap: → :necroauto: → :commandskeleton:
 
-⬥ Igneous Hur (Kite to Zuk)  :invokedeath: → :vulnbomb:+:soulstrike: → :soulsap: → :splitsoul: → :necroauto: → :soulsap:
+⬥ Igneous Hur (Kite to Zuk 2)  :invokedeath: → :vulnbomb:+:soulstrike: → :soulsap: → :splitsoul: → :necroauto: → :soulsap:
 
 ⬥ Zuk  :vulnbomb:+:deathskulls: → :touchofdeath: → :soulsap: → :volleyofsouls: → :eofspec: → dismiss conjures :conjurearmy: → :invokedeath:
 `,
@@ -44,38 +44,38 @@ Start South-East
 
 :threadsoffate: → TC+:soulsap: → :volleyofsouls: → (target the two that didn't get hit) → :omniguard: :spec:.
 
-(Go North for Wave 6)
+(Stay North for Wave 6)
 `,
 "6": `
 Start North
 
 :commandghost: → :commandskeleton: → (North Ranger) :deathspark: → :soulsap: →
 
-:surge: (South and TC Jad)+:touchofdeath: → :vulnbomb:+:livingdeath:+adrenrenewal: → :touchofdeath: →
+:surge: (South 1 and TC Jad)+:touchofdeath: → :vulnbomb:+:livingdeath:+adrenrenewal: → :touchofdeath: →
 
-:surge: (South through Jad)+:deathskulls: → :invokedeath: → :fingerofdeath: → (Bats) :soulsap: → :deathspark: → :necroauto: → :soulsap: → (Jad) :fingerofdeath: →
+:surge: (South 2 through Jad)+:deathskulls: → :invokedeath: → :fingerofdeath: → (Bats) :soulsap: → :deathspark: → :necroauto: → :soulsap: → (Jad) :fingerofdeath: →
 
-:surge: (North after Jad dies)+:deathskulls: (Meleer) → finish Rangers with :fingerofdeath: / :necroauto: / :soulsap: → :lifetransfer: → :invokedeath: → :commandskeleton:
+:surge: (North 3 after Jad dies)+:deathskulls: (Meleer) → finish Rangers with :fingerofdeath: / :necroauto: / :soulsap: → :lifetransfer: → :invokedeath: → :commandskeleton:
 
 (Go East for Wave 7)
 `,
 "7": `
 Start East
 
-(East Bat) :bloat: → (North Mager) :bloat: → (West Bat) :fingerofdeath: → (NW Ranger) :volleyofsouls: → (NE Ranger) :bloat: → :soulsap: → (East Ranger) :invokedeath: → :bloat: → :conjurearmy: → :invokedeath: → :commandghost: →
+(East Bat) :bloat: → (North 1 Mager) :bloat: → (West Bat) :fingerofdeath: → (NW Ranger) :volleyofsouls: → (NE 2 Ranger) :bloat: → :soulsap: → (East 3 Ranger) :invokedeath: → :bloat: → :conjurearmy: → :invokedeath: → :commandghost: →
 
-:dive: (Middle)+:threadsoffate: → :soulsap: → :volleyofsouls: → :lifetransfer: → :invokedeath: → :commandskeleton:
+:dive: (Middle 4)+:threadsoffate: → :soulsap: → :volleyofsouls: → :lifetransfer: → :invokedeath: → :commandskeleton:
 
-(Go East for Wave 8)
+(Go North for Wave 8)
 `,
 "8": `
-Start East
+Start North
 
-(East Mager)+:bloat: → (North Ranger) :soulsap: → :touchofdeath: → Go NW (West Mager) :deathskulls: → :soulsap: → :commandskeleton: →
+(North Ranger)+:bloat: → (East 1 Mager) :soulsap: → :touchofdeath: → Go NW 2 (West Mager) :deathskulls: → :soulsap: → :commandskeleton: →
 
-:surge: (East)+:invokedeath: → (NE Ranger) :bloat: → (Move behind east rock) :invokedeath: → (East Ranger) :bloat: → :conjurearmy: → :invokedeath: → :commandghost: →
+:surge: (East 3)+:invokedeath: → (NE Ranger) :bloat: → (Move behind east rock 4) :invokedeath: → (East Ranger) :bloat: → :conjurearmy: → :invokedeath: → :commandghost: →
 
-:dive: (Middle)+:threadsoffate: → :soulsap: → :volleyofsouls: → :lifetransfer: → :invokedeath: → :commandskeleton:
+:dive: (Middle 5)+:threadsoffate: → :soulsap: → :volleyofsouls: → :lifetransfer: → :invokedeath: → :commandskeleton:
 
 (Go South East for Wave 9 Igneous Mej)
 
@@ -86,11 +86,11 @@ Notes:
 ⬥ The third :soulsap: can be cast on any of the enemies in the middle, the TzekHaar-Yt-MejKot is often the ideal target. Ensure you do not walk too far out or else the :threadsoffate:+:volleyofsouls: will not hit everything
 `,
 "9": `
-⬥ Igneous Mej  (:commandskeleton: → :invokedeath:) → :vulnbomb:+:bloat: → :vulnbomb: → :soulsap: → :touchofdeath: → :surge: towards Igneous Xil+:invokedeath:
+⬥ Igneous Mej  (:commandskeleton: → :invokedeath:) → :vulnbomb:+:bloat: → :vulnbomb: → :soulsap: → :touchofdeath: → :surge: (towards Igneous Xil 1)+:invokedeath:
 
 ⬥ Igneous Xil  :vulnbomb:+:bloat: → :soulsap: → :necroauto: → :commandskeleton:
 
-⬥ Igneous Hur (Kite to Zuk)  :invokedeath: → :vulnbomb:+:soulstrike: → :soulsap: → :splitsoul: → :necroauto: → :soulsap:
+⬥ Igneous Hur (Kite to Zuk 2)  :invokedeath: → :vulnbomb:+:soulstrike: → :soulsap: → :splitsoul: → :necroauto: → :soulsap:
 
 ⬥ Zuk  :vulnbomb:+:deathskulls: → :bloat: → :soulsap: → :touchofdeath: → :volleyofsouls: → :omniguard: :spec: → dismiss conjures+:conjurearmy: → :invokedeath:
 `,
@@ -102,20 +102,20 @@ Notes:
 "11": `
 Start North
 
-(North Mager) :bloat: → :surge: (South) → (SE Bat) :soulsap: → :touchofdeath: →
+(North Mager) :bloat: → :surge: (South 1) → (SE Bat) :soulsap: → :touchofdeath: →
 
-:surge: (West) → (SW Bat) :deathspark: → :soulsap: → (Go NW rock) :invokedeath: → :livingdeath:+:adrenrenewal: → (Jad) :touchofdeath: → (NW Mager) :deathskulls: → (West Mager) :soulsap: → :fingerofdeath: → (Jad) :necroauto: → :necroauto: → :fingerofdeath: → :invokedeath: →
+:surge: (West 2) → (SW Bat) :deathspark: → :soulsap: → (Go NW rock 3) :invokedeath: → :livingdeath:+:adrenrenewal: → (Jad) :touchofdeath: → (NW Mager) :deathskulls: → (West Mager) :soulsap: → :fingerofdeath: → (Jad) :necroauto: → :necroauto: → :fingerofdeath: → :invokedeath: →
 
-:dive: (North)+:threadsoffate: → :soulsap: → :volleyofsouls: → :deathskulls: → (Yt-MejKot) :fingerofdeath: → finish with basics → :lifetransfer: → :invokedeath: → :commandskeleton:
+:dive: (North 4)+:threadsoffate: → :soulsap: → :volleyofsouls: → :deathskulls: → (Yt-MejKot) :fingerofdeath: → finish with basics → :lifetransfer: → :invokedeath: → :commandskeleton:
 
-(Go North for Wave 12)
+(Stay North for Wave 12)
 `,
 "12": `
 Start North
 
-(Bat)+:bloat: → (Move East) :invokedeath: → (East Ranger) :bloat: → :invokedeath: → (East Mager) :soulsap: → :necroauto: → :surge: (SW) → (SW Mager) :soulsap: → :touchofdeath: → :necroauto: → (Bat) :commandskeleton: → :soulsap: →
+(Bat)+:bloat: → (Move East 1) :invokedeath: → (East Ranger) :bloat: → :invokedeath: → (East Mager) :soulsap: → :necroauto: → :surge: (SW 2) → (SW Mager) :soulsap: → :touchofdeath: → :necroauto: → (Bat) :commandskeleton: → :soulsap: →
 
-:invokedeath: → :dive: (Middle)+:threadsoffate: → :soulsap: → :volleyofsouls: → :invokedeath: → :lifetransfer: → :commandskeleton:
+:invokedeath: → :dive: (Middle 3)+:threadsoffate: → :soulsap: → :volleyofsouls: → :invokedeath: → :lifetransfer: → :commandskeleton:
 
 (Go North for Wave 13)
 
@@ -124,20 +124,20 @@ Note: Ensure the East ranger and mager are dead before :invokedeath: and moving 
 "13": `
 Start North
 
-(North Ranger) :bloat: → (East Mager) :invokedeath: → :bloat: → (SE Ket-Zek) :deathskulls: →
+(North Ranger) :bloat: → (East 1 Mager) :invokedeath: → :bloat: → (SE Ket-Zek) :deathskulls: →
 
-:surge:+:dive: (SW) → :invokedeath: → (SW Ket-Zek) :soulsap: → :touchofdeath: → :necroauto: → :commandzombie: → :conjurearmy: → :soulsap: → :commandghost: → (South Ranger) :commandskeleton: →
+:surge:+:dive: (SW 2) → :invokedeath: → (SW Ket-Zek) :soulsap: → :touchofdeath: → :necroauto: → :commandzombie: → :conjurearmy: → :soulsap: → :commandghost: → (South Ranger) :commandskeleton: →
 
-Finish south mager and ranger with basics :threadsoffate: when cd is <3s → :invokedeath: → :dive: (Middle)+:soulsap: → :volleyofsouls: → :invokedeath: → :commandskeleton:
+Finish south mager and ranger with basics :threadsoffate: when cd is <3s → :invokedeath: → :dive: (Middle 3)+:soulsap: → :volleyofsouls: → :invokedeath: → :commandskeleton:
 
 (Go South East for Wave 14 Igneous Mej)
 `,
 "14": `
-⬥ Igneous Mej  (:commandskeleton: → :invokedeath:) → :vulnbomb:+:bloat: → :vulnbomb: → :soulsap: → :touchofdeath: → :surge: towards Igneous Xil+:invokedeath:
+⬥ Igneous Mej  (:commandskeleton: → :invokedeath:) → :vulnbomb:+:bloat: → :vulnbomb: → :soulsap: → :touchofdeath: → :surge: (towards Igneous Xil 1)+:invokedeath:
 
 ⬥ Igneous Xil  :vulnbomb:+:bloat: → :soulsap: → :necroauto: → :commandskeleton:
 
-⬥ Igneous Hur (Kite to Zuk)  :invokedeath: → :vulnbomb:+:eofspec: → :soulsap: → :splitsoul: → :touchofdeath:
+⬥ Igneous Hur (Kite to Zuk 2)  :invokedeath: → :vulnbomb:+:eofspec: → :soulsap: → :splitsoul: → :touchofdeath:
 
 ⬥ Zuk  :vulnbomb:+:deathskulls: → :soulsap: → :commandzombie: → :commandskeleton: → :soulsap: → :volleyofsouls: → :touchofdeath: → dismiss conjures+:conjurearmy: → :lifetransfer:
 `,
@@ -152,14 +152,14 @@ Notes:
 "16": `
 Stand beside the north-west rock and kill the north-west Jad while the other 2 group
 
-Jad 1: :vulnbomb:+:deathskulls: → :soulsap: → :volleyofsouls: → :touchofdeath: → :invokedeath: (When Jad 1 dies)
+Jad 1 :vulnbomb:+:deathskulls: → :soulsap: → :volleyofsouls: → :touchofdeath: → :invokedeath: (When Jad 1 dies)
 
-Jad 2 and 3: :threadsoffate: → :fingerofdeath: → :deathskulls: → :fingerofdeath: → finish with basics → build :residualsoul: and :necrosis: on :tzkalzuk:
+Jad 2 and 3 :threadsoffate: → :fingerofdeath: → :deathskulls: → :fingerofdeath: → finish with basics → build :residualsoul: and :necrosis: on :tzkalzuk: (1)
 
 :invokedeath: → :splitsoul: → :commandskeleton: pre Har-Aken
 `,
 "17": `
-:dive: to :haraken:+:bloat: → :soulsap: → :omniguard: :spec: → :deathspark: → :soulsap: → :deathskulls: → :commandskeleton: → :soulsap: (if 5 residualsoul then :volleyofsouls: ) → :deathspark: → :touchofdeath: → :soulsap: → :deathspark: → :commandzombie: → finish with basics → dismiss conjures when :haraken: dies
+:dive: to :haraken:(1)+:bloat: → :soulsap: → :omniguard: :spec: → :deathspark: → :soulsap: → :deathskulls: → :commandskeleton: → :soulsap: (if 5 residualsoul then :volleyofsouls: ) → :deathspark: → :touchofdeath: → :soulsap: → :deathspark: → :commandzombie: → finish with basics → dismiss conjures when :haraken: dies → Go to Zuk
 `,
 "18": `
 First cycle
@@ -178,11 +178,11 @@ Note: Some improvisation will be necessary as it depends on when you started att
 Pizza Phase
 Move with :surge:+:dive: between each monster to avoid the fire
 
-Igneous Hur: :invokedeath: → :surge:+:dive: → :vulnbomb:+:soulstrike: → :soulsap: → :deathspark: → :commandskeleton: → :soulsap:
+Igneous Hur 1: :invokedeath: → :surge:+:dive: → :vulnbomb:+:soulstrike: → :soulsap: → :deathspark: → :commandskeleton: → :soulsap:
 
-Igneous Xil: :invokedeath: → :surge:+:dive: → :vulnbomb:+:bloat: → :soulsap: → :touchofdeath: → :deathspark: → :soulsap: → :conjurearmy: → :lifetransfer: → :commandghost:
+Igneous Xil 2: :invokedeath: → :surge:+:dive: → :vulnbomb:+:bloat: → :soulsap: → :touchofdeath: → :deathspark: → :soulsap: → :conjurearmy: → :lifetransfer: → :commandghost:
 
-Igneous Mej: :invokedeath: → :surge:+:dive: → :bloat: → :soulsap: → :touchofdeath: → :necroauto: → :soulsap:
+Igneous Mej 3: :invokedeath: → :surge:+:dive: → :bloat: → :soulsap: → :touchofdeath: → :necroauto: → :soulsap:
 
 Second cycle
 :Veng:+:livingdeath:+:adrenrenewal: → :touchofdeath:+:vulnbomb: → :deathskulls:+click extra-action button → :divrt: → :splitsoul: → :volleyofsouls: → :fingerofdeath: → :commandskeleton: → :freedom: (bleed) → :deathskulls: → :touchofdeath: → :fingerofdeath: → :necroauto: → :fingerofdeath: → :surge:+:dive: (debuff)+:soulsap: → :necroauto: → :necroauto: → :deathskulls: → :commandskeleton: → :surge: (slam)+:soulsap: → :omniguard: :spec: → :soulsap: → :deathspark:
