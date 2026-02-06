@@ -1,10 +1,10 @@
 export const wave_text = {
 "1": `
-(Go East) :conjurearmy: → :lifetransfer: → :commandghost: → (East Meleer) :soulsap: → :touchofdeath: →
+(Go East 1) :conjurearmy: → :lifetransfer: → :commandghost: → (East Meleer) :soulsap: → :touchofdeath: →
 
-(Go North) :livingdeath:+:adrenrenewal: → :threadsoffate: → (Any North Meleer) :soulsap: → :volleyofsouls: →
+(Go North 2) :livingdeath:+:adrenrenewal: → :threadsoffate: → (Any North Meleer) :soulsap: → :volleyofsouls: →
 
-:surge: (South)+:omniguard: :spec: (Kill both bats with :threadsoffate:+:omniguard: :spec:) → :invokedeath: → :commandskeleton:
+:surge: (South 3)+:omniguard: :spec: (Kill both bats with :threadsoffate:+:omniguard: :spec:) → :invokedeath: → :commandskeleton:
 
 (Go North East for Wave 2)
     `,
