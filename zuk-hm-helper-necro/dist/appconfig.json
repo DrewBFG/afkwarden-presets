@@ -1,8 +1,8 @@
 {
-	"appName": "Zuk Hardmode Helper Necro",
+	"appName": "Zuk HM Helper Necro",
 	"description": "Zuk Hardmode Helper for Necromancy (PVME)",
 	"appUrl":"./",
-	"configUrl":"./appconfig.jon",
+	"configUrl":"./appconfig.json",
 	"iconUrl": "images/zuk.png",
 	"defaultWidth": 200,
 	"defaultHeight": 200,
