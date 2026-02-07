@@ -1,0 +1,16 @@
+{
+	"appName": "Zuk HM Helper Necro Keyed",
+	"description": "Zuk Hardmode Helper for Necromancy (PVME) with Keybinds",
+	"appUrl":"./",
+	"configUrl":"./appconfig.json",
+	"iconUrl": "images/zuk.png",
+	"defaultWidth": 200,
+	"defaultHeight": 200,
+	"minWidth": 0,
+	"minHeight": 0,
+	"maxWidth": 1400,
+	"maxHeight": 1400,
+	"requestHandlers": [ ],
+	"activators": [ ],
+	"permissions": "overlay,pixel,gamestate"
+}
